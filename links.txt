@@ -4,3 +4,5 @@ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 
 https://betterprogramming.pub/serialization-and-deserialization-ba12fc3fbe23
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
+

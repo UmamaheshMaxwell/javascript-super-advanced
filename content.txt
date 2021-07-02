@@ -8,6 +8,7 @@ arrays
 Closures
 Bind call apply
 this
+Scope of Objects
 Prototypes
 Class
 Inheritance
