@@ -6,3 +6,4 @@ https://betterprogramming.pub/serialization-and-deserialization-ba12fc3fbe23
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error
 
+https://github.com/UmamaheshMaxwell/basic-bash-scripting
